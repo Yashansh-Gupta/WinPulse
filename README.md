@@ -146,6 +146,10 @@ WinPulse focuses on:
 
 Understanding system behavior, not just displaying numbers.
 
+
+![WinPulse GUI](screenshots/gui.png)
+
+
 📄 License
 
 MIT License
